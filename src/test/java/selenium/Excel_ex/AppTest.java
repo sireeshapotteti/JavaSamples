@@ -6,6 +6,7 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
+this is an example of excel
  */
 public class AppTest 
     extends TestCase
